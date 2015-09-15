@@ -1,0 +1,71 @@
+body {
+    padding-top: 50px;
+    background: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/sos.png);
+
+}
+
+#logo {
+    float: left;
+    margin-top: -7px;
+}
+
+.content {
+    max-width: 1000px;
+}
+
+.profile {
+    width: 175px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+p {
+    margin-bottom: 15px;
+    font-size: 1.2em;
+}
+
+li {
+    font-size: 1.2em;
+}
+
+.myBlurb {
+    background-image: url("img/startup.jpg");
+}
+
+.jumbotron h2, .jumbotron p {
+    color: white;
+    text-align: center;
+}
+
+.jumbotron p {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.content {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row h2 {
+    color: #260C6E;
+}
+
+.card {
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#contact {
+    background-color: #260C6E;
+    margin-bottom: 0;
+}
